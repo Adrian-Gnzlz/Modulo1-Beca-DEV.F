@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color:midnightblue;
+}
+
+body{
+    margin: auto;
+    width: 900px;
+    padding: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#foto-adrian{
+    width: 200px;
+}
+
+#texto-pres{
+    display: inline-block;
+}
