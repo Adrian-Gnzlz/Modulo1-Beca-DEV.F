@@ -22,8 +22,9 @@ header{
     margin: 20px;
 }
 
-.contenedor{
-    display: flex;
+.imagen-general{
+width: 200px;
+margin: 20px;
 }
 
 
