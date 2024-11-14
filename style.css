@@ -1,15 +1,32 @@
 h1{
     text-align: center;
-    color:midnightblue;
 }
 
 body{
-    margin: auto;
-    width: 900px;
-    padding: 50px;
+    background-color:#b83030;
+    margin: 0;
+    padding: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color: #2624ad;
+    padding: 20px;
+    text-align: center;
+    color: white;
 }
 
 #foto-adrian{
     width: 200px;
+    margin: 20px;
 }
+
+.contenedor{
+    display: flex;
+}
+
+main {
+    flex: 1;
+    padding: 20px;
+}
+
